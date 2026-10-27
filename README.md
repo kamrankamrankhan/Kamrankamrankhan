@@ -1,68 +1,21 @@
+# 💫 About Me:
+I’m a DevOps Engineer and Full-Stack Developer. I integrate infrastructure, automation, and application development. This enables me to design, develop, deploy, and manage scalable, secure, and fast applications from scratch.<br><br>I assist businesses in building stable systems that scale, reduce downtime, and improve their development and deployment processes.<br><br>DevOps & Cloud Infrastructure<br><br>- CI/CD pipelines set up for rapid and stable deployments<br>- Practical experience with AWS and cost-effective strategies<br>- Infrastructure as Code (IaC) with Terraform and CloudFormation<br>- Performance optimization, monitoring, and logging for production environments<br>- Secure, scalable, and highly available cloud architectures<br>- Containerization and orchestration with Docker (and Kubernetes when necessary)<br><br>Full-Stack Development<br><br>- Modern and responsive front-end development with React<br>- Robust back-end APIs with Node.js and Express<br>- Clean, maintainable, and scalable code with best practices<br>- End-to-end application delivery: idea → development → deployment → monitoring<br><br>What You Can Expect<br><br>- Effective communication and reliable delivery<br>- Production-ready solutions (not just proofs-of-concept)<br>- Emphasis on performance, security, and scalability<br>- Long-term support approach for maturing products<br><br>If you need a developer who can develop your application and then deploy, scale, and support it, I am the best fit.
 
 
-# Hi 👋, I'm KamranKhan
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kamran-khan-4a3908219) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamrankamrankhan825@gmail.com) 
 
-# DevOps Engineer & Full-Stack Developer
-## Welcome to my GitHub profile! I’m a DevOps Engineer & Full-Stack Developer with extensive experience in cloud technologies and automation.I take pleasure in creating scalable and resilient systems that enable teams to deliver software more quickly.
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kamrankamrankhan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kamrankamrankhan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kamrankamrankhan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# Tech Stack
-![image](https://github.com/user-attachments/assets/404ed290-296b-4e6a-8698-efa9bee09dd2) ![image](https://github.com/user-attachments/assets/b129f6b3-b9d6-471e-a6a1-405e14c7c009) ![image](https://github.com/user-attachments/assets/e7ea4aa2-482d-4166-8992-50eb5d08d886) ![image](https://github.com/user-attachments/assets/4e7e2a71-db85-4255-995b-f363ef5e4ac6) ![image](https://github.com/user-attachments/assets/545d45b9-b6f5-478c-87f1-3d7690701739) ![image](https://github.com/user-attachments/assets/1ca0bfc1-3258-414a-bfa8-86e49ebf6416) ![image](https://github.com/user-attachments/assets/19e832e8-f34d-42d5-b3fc-14752bc8bc79) ![image](https://github.com/user-attachments/assets/2288676d-1207-42fc-b2cf-857e254acd0c) ![image](https://github.com/user-attachments/assets/b6b8538d-bee8-4152-a86d-0d6ff6720881) ![image](https://github.com/user-attachments/assets/3eb98be2-6c27-453b-9f17-ac1bc8382d27) ![image](https://github.com/user-attachments/assets/90d8fb2d-4a69-4107-80fb-ffa6976f2c86) 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kamrankamrankhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://komarev.com/ghpvc/?username=kamrankamrankhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 🔧 Technologies and Tools
-
-### Cloud
-- **AWS**
-
-### Containerization
-- **Docker**
-- **Kubernetes**
-
-### CI/CD
-- **Jenkins**
-- **GitLab CI/CD**
-- **GitHub Actions**
-
-### Configuration Management
-- **Ansible**
-- **Terraform**
-
-### Monitoring
-- **Prometheus**
-- **Grafana**
-- **ELK Stack**
-
-### Scripting
-- **Bash**
-- **Python**
-
-### Version Control
-- **Git**
-- **GitHub**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
